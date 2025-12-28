@@ -5,7 +5,7 @@ It’s meant to track my progress, improve problem-solving skills, and serve as 
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/Kali-Prem/)
 [![GitHub stars](https://img.shields.io/github/stars/Kali-Prem/DSA-Practice?style=social)](https://github.com/Kali-Prem/DSA-Practice/stargazers)
-[![Languages](https://img.shields.io/badge/languages-Python%20%7C%20C++%20%7C%20Java-blue)](#)
+[![Languages](https://img.shields.io/badge/languages-Python%20%7C%20C++%20%7C%20Shell%20%7C%20Java-blue)](#)
 
 ## 📂 Structure
 - Organized by topic (Arrays, Strings, LinkedList, Trees, Graphs, Dynamic Programming, etc.).
